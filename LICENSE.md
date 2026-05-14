@@ -1,4 +1,4 @@
-#  
+#  Evernote for macOS exclusive Plugin - focus mode and quick search is the best Evernote for macOS plugin, featuring focus mode and quick search. Safe, efficient, and optimized for
 
 
 
